@@ -103,7 +103,8 @@ For Transient Analysis Settings and Output
 
 ![1731741513801](https://github.com/user-attachments/assets/d96a71fe-4332-46fd-854d-5c01c5e8c454)
 
-![1731741178003](https://github.com/user-attachments/assets/1e79df58-2580-48a5-a990-57a55bf08796)
+![1731741178011](https://github.com/user-attachments/assets/f0fd3427-2436-43a8-a5d6-d96b1aadf8bb)
+
 
 
 Results:
