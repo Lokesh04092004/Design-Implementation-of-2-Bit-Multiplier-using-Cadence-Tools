@@ -81,7 +81,7 @@ iv)	Creating the new test cell view
 •	Follow the step 3(ii) d to make the required connections
 
 
-![IMG-20241019-WA0031](https://github.com/user-attachments/assets/11ad6598-e17a-42d3-becf-022d93e4e99d)
+![1731741178020](https://github.com/user-attachments/assets/9d083889-92ef-40e1-8d71-b18148398f6a)
 
  
 
@@ -100,12 +100,11 @@ Analog simulation by SPECTRE.
 
 
 For Transient Analysis Settings and Output
-![IMG-20241019-WA0028](https://github.com/user-attachments/assets/ccc48800-045e-4cf8-b9d7-bf8fc443e8ae)
 
+![1731741513801](https://github.com/user-attachments/assets/d96a71fe-4332-46fd-854d-5c01c5e8c454)
 
- ![IMG-20241019-WA0027](https://github.com/user-attachments/assets/c13a30de-284c-4201-8bde-c9fc9e88234b)
+![1731741178003](https://github.com/user-attachments/assets/1e79df58-2580-48a5-a990-57a55bf08796)
 
-  
 
 Results:
 The design and implementation of the 2-bit multiplier using Cadence EDA tools were successfully carried out. The simulation results confirmed the correct operation of the multiplier for all input combinations. 
